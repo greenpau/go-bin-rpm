@@ -1,1 +1,3 @@
-# MOVED to github.com/greenpau/rpm-build-lib
+# MOVED
+
+New location: https://github.com/greenpau/go-rpm-build-lib
